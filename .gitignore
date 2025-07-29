@@ -1,0 +1,73 @@
+# ====================
+# OS generated files
+# ====================
+.DS_Store
+Thumbs.db
+
+# ====================
+# Python
+# ====================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+venv/
+env/
+
+# ====================
+# Java
+# ====================
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# ====================
+# IDEs and Editors
+# ====================
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# VSCode
+.vscode/
+
+# PyCharm
+*.idea/
+*.ipr
+*.iws
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+*.bak
+
+# ====================
+# Logs and temp
+# ====================
+*.log
+*.tmp
+*.swp
+*.swo
